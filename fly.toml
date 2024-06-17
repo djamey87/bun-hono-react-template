@@ -1,10 +1,10 @@
-# fly.toml app configuration file generated for my-expense-tracker-demo on 2024-02-26T21:42:47-08:00
+# fly.toml app configuration file generated for journalling-app on 2024-06-13T12:09:23+01:00
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'my-expense-tracker-demo'
-primary_region = 'sea'
+app = 'journalling-app'
+primary_region = 'lhr'
 
 [build]
 
